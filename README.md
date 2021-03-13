@@ -1,9 +1,9 @@
-<h1 align="center">SDRN_03 Restaurant App</h1>
+<h1 align="center">SDRN_03 Restaurant_App</h1>
 
 
 <div align="center">
   <h3>
-    <a href="https://github.com/SemihDurmus/SDRN_03_Restaurant_App.git">
+    <a href="https://github.com/Meltem-Karaagac/Restaurant_page_ReactNative">
       Project Source
     </a>
  
@@ -25,7 +25,7 @@
 
 ## Overview
 
-<img src="src/assets/rest1.gif" height="500">
+<img src="./overview/restaurant.gif" height="500">
 
 ### Built With
 
@@ -74,5 +74,5 @@ npm install axios
 
 ## Contact
 
-- GitHub [SemihDurmus](https://github.com/SemihDurmus)
-- Linkedin [@Semih Durmus](https://www.linkedin.com/in/semih-durmus-0548751b7/)
+- GitHub [MeltemKaraagac](https://github.com/Meltem-Karaagac)
+- Linkedin [@MeltemKaraagac](https://www.linkedin.com/in/meltem-karaagac/)
