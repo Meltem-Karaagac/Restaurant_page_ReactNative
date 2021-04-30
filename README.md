@@ -1,4 +1,4 @@
-<h1 align="center">SDRN_03 Restaurant_App</h1>
+<h1 align="center">Restaurant App</h1>
 
 
 <div align="center">
